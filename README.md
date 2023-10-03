@@ -8,3 +8,5 @@ Pertemuan 1: https://colab.research.google.com/drive/1WPThc8PMqN3oLZiAHz1STY1lDn
 pertemuan 2: https://colab.research.google.com/drive/182AYJlqazAzH5jhKeq7upO1f0XXyiWJk?usp=sharing
 
 Pertemuan 3: https://colab.research.google.com/drive/1I0sdPhcwGWaUAjGNDow3D7epEA90xuXb?usp=sharing
+
+Pertemuan 5: https://colab.research.google.com/drive/1zgfNVSs9mdX8v6yCEiUZoWZMa90a8rVZ?usp=sharing
